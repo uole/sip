@@ -1,0 +1,8 @@
+/.idea
+/.trash
+/bin
+/pre-commit.sh
+/TODO.md
+
+session.go
+session_test.go
